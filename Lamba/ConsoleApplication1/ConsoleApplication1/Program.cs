@@ -11,12 +11,13 @@ namespace ConsoleApplication1
             Dictionary<string, string> dictionary = new Dictionary<string, string>
             {
                 {"a","a1" },
-                {"b","b1" }
+                {"b","b1" },
+                {"e","e1" }
             };
 
             string a = "c1";
 
-            a =dictionary.Keys.Aggregate(a, (current, s) => current + dictionary[s]);
+            a = dictionary.Keys.Aggregate(a, (current, s) => current + dictionary[s]);
 
             Console.WriteLine(a);
 
