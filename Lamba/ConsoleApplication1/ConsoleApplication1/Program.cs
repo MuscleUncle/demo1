@@ -22,8 +22,15 @@ namespace ConsoleApplication1
 
             Console.WriteLine(a);
 
+            SayHello();
+
             Console.Read();
 
+        }
+
+        public static void SayHello()
+        {
+            Console.WriteLine("Hello World!!");
         }
     }
 }

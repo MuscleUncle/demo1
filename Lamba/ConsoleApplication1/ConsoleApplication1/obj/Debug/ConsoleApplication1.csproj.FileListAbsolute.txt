@@ -1,0 +1,6 @@
+E:\clone_from_github\demo1\Lamba\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+E:\clone_from_github\demo1\Lamba\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+E:\clone_from_github\demo1\Lamba\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+E:\clone_from_github\demo1\Lamba\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+E:\clone_from_github\demo1\Lamba\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+E:\clone_from_github\demo1\Lamba\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
