@@ -13,9 +13,10 @@ namespace ConsoleApplication1
                 {"a","a1" },
                 {"b","b1" },
                 {"e","e1" }
+                {"c","c1" }
             };
 
-            string a = "c1";
+            string a = "d1";
 
             a = dictionary.Keys.Aggregate(a, (current, s) => current + dictionary[s]);
 
