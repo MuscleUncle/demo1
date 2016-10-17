@@ -30,7 +30,7 @@ namespace ConsoleApplication1
 
         public static void SayHello()
         {
-            Console.WriteLine("PPAP - Hello World!! - HAHA");
+            Console.WriteLine("PPAP - Hello World!!");
         }
     }
 }
