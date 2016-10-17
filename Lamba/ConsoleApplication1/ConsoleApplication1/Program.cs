@@ -31,7 +31,6 @@ namespace ConsoleApplication1
         public static void SayHello()
         {
             Console.WriteLine("Hello World!!");
-            Console.WriteLine("HEHE 哈哈！！");
         }
     }
 }
